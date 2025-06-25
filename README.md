@@ -54,10 +54,10 @@ A glimpse into the E-Library app's modern UI/UX experience across various screen
 ## 📦 Tech Stack
 
 - **Flutter** – UI development
+- **Dart** – Programming language
 - **GetX** – State management
 - **Firebase** – Authentication, Firestore, Storage
 - **Syncfusion** – In-app PDF viewer
-- **Dart** – Programming language
 - **VS Code** – Development environment
 
 ---
