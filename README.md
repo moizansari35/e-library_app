@@ -23,14 +23,14 @@ A glimpse into the E-Library app's modern UI/UX experience across various screen
 
 <div align="center">
 
-<img src="assets/screenshots/splash_mockup.png" width="200" alt="Splash Screen" />
-<img src="assets/screenshots/welcome_mockup.png" width="200" alt="Welcome Screen" />
-<img src="assets/screenshots/signup_mockup.png" width="200" alt="Signup Screen" />
-<img src="assets/screenshots/home_mockup.png" width="200" alt="Home Screen" />
-<img src="assets/screenshots/book_details_mockup.png" width="200" alt="Book Details Screen" />
-<img src="assets/screenshots/book_post_mockup.png" width="200" alt="Book Post Screen" />
-<img src="assets/screenshots/pdf_mockup.png" width="200" alt="PDF Viewer" />
-<img src="assets/screenshots/profile_mockup.png" width="200" alt="User Profile Screen" />
+<img src="Assets/Screenshots/splash_mockup.png" width="200" alt="Splash Screen" />
+<img src="Assets/Screenshots/welcome_mockup.png" width="200" alt="Welcome Screen" />
+<img src="Assets/Screenshots/signup_mockup.png" width="200" alt="Signup Screen" />
+<img src="Assets/Screenshots/home_mockup.png" width="200" alt="Home Screen" />
+<img src="Assets/Screenshots/book_details_mockup.png" width="200" alt="Book Details Screen" />
+<img src="Assets/Screenshots/book_post_mockup.png" width="200" alt="Book Post Screen" />
+<img src="Assets/Screenshots/pdf_mockup.png" width="200" alt="PDF Viewer" />
+<img src="Assets/Screenshots/profile_mockup.png" width="200" alt="User Profile Screen" />
 
 </div>
 
