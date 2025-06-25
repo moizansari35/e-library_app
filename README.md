@@ -17,11 +17,29 @@ Users can read, upload, and download books — all in one clean and elegant inte
 
 ---
 
-## 📸 Screenshots
+## 📸 App Screens – Mockups
+
+A glimpse into the E-Library app's modern UI/UX experience across various screens:
+
+<div align="center">
+
+<img src="assets/screenshots/splash_mockup.png" width="200" alt="Splash Screen" />
+<img src="assets/screenshots/welcome_mockup.png" width="200" alt="Welcome Screen" />
+<img src="assets/screenshots/signup_mockup.png" width="200" alt="Signup Screen" />
+<img src="assets/screenshots/home_mockup.png" width="200" alt="Home Screen" />
+<img src="assets/screenshots/book_details_mockup.png" width="200" alt="Book Details Screen" />
+<img src="assets/screenshots/book_post_mockup.png" width="200" alt="Book Post Screen" />
+<img src="assets/screenshots/pdf_mockup.png" width="200" alt="PDF Viewer" />
+<img src="assets/screenshots/profile_mockup.png" width="200" alt="User Profile Screen" />
+
+</div>
+
+
+<!-- ## 📸 Screenshots
 
 | Login | Home | Read Book | Upload Book |
 |------|------|-----------|--------------|
-| <img src="Assets/Screenshots/splash_mockup.png" width="200"/> | <img src="Assets/Screenshots/welcome_mockup.png" width="200"/> | <img src="Assets/Screenshots/signup_mockup.png" width="200"/> | <img src="assets/screenshots/book_details_mockup.png" width="200"/> | <img src="assets/screenshots/book_post_mockup.png" width="200"/> |<img src="assets/screenshots/pdf_mockup.png.png" width="200"/> |
+| <img src="Assets/Screenshots/splash_mockup.png" width="200"/> | <img src="Assets/Screenshots/welcome_mockup.png" width="200"/> | <img src="Assets/Screenshots/signup_mockup.png" width="200"/> | <img src="assets/screenshots/book_details_mockup.png" width="200"/> | <img src="assets/screenshots/book_post_mockup.png" width="200"/> |<img src="assets/screenshots/pdf_mockup.png.png" width="200"/> | -->
 
 ---
 <!-- 
