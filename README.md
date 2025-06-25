@@ -21,7 +21,7 @@ Users can read, upload, and download books — all in one clean and elegant inte
 
 | Login | Home | Read Book | Upload Book |
 |------|------|-----------|--------------|
-| <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/home.png" width="200"/> | <img src="assets/screenshots/reader.png" width="200"/> | <img src="assets/screenshots/upload.png" width="200"/> |
+| <img src="Assets/Screenshots/splash_mockup.png" width="200"/> | <img src="Assets/Screenshots/welcome_mockup.png" width="200"/> | <img src="Assets/Screenshots/signup_mockup.png" width="200"/> | <img src="assets/screenshots/book_details_mockup.png" width="200"/> | <img src="assets/screenshots/book_post_mockup.png" width="200"/> |<img src="assets/screenshots/pdf_mockup.png.png" width="200"/> |
 
 ---
 <!-- 
