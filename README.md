@@ -23,25 +23,33 @@ Users can read, upload, and download books — all in one clean and elegant inte
 
 <br>
 
-<table align="center">
+<table width="100%" align="center" cellspacing="10">
   <tr>
-    <td align="center" style="border:1px solid #ccc; padding:10px;">
-      <img src="Assets/Screenshots/mockup1.png" width="200" alt="Mockup 1" /><br/>
-      <b>🏠 Home</b>
+    <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
+      <img src="Assets/Screenshots/mockup1.png" width="100%" alt="Home Screen" />
+      <br/><br/>
+      <b>🏠 Home Screen</b><br/>
+      <sub>Browse featured books, trending titles, and search your favorite reads.</sub>
     </td>
-    <td align="center" style="border:1px solid #ccc; padding:10px;">
-      <img src="Assets/Screenshots/mockup2.png" width="200" alt="Mockup 2" /><br/>
-      <b>📖 Book Details</b>
+    <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
+      <img src="Assets/Screenshots/mockup2.png" width="100%" alt="Book Details Screen" />
+      <br/><br/>
+      <b>📖 Book Details</b><br/>
+      <sub>View detailed information, cover, author, and description of selected books.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border:1px solid #ccc; padding:10px;">
-      <img src="Assets/Screenshots/mockup3.png" width="200" alt="Mockup 3" /><br/>
-      <b>📄 PDF Reader</b>
+    <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
+      <img src="Assets/Screenshots/mockup3.png" width="100%" alt="PDF Reader" />
+      <br/><br/>
+      <b>📄 PDF Reader</b><br/>
+      <sub>Read books directly in the app with a fast and elegant PDF viewer.</sub>
     </td>
-    <td align="center" style="border:1px solid #ccc; padding:10px;">
-      <img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" /><br/>
-      <b>👤 Profile</b>
+    <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
+      <img src="Assets/Screenshots/mockup4.png" width="100%" alt="Profile Screen" />
+      <br/><br/>
+      <b>👤 Profile</b><br/>
+      <sub>Manage your uploads, view your reading list, and update your profile.</sub>
     </td>
   </tr>
 </table>
