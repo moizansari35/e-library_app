@@ -20,29 +20,39 @@ Users can read, upload, and download books — all in one clean and elegant inte
 
 > A smooth staircase-like preview of the **E-Library app**’s intuitive and modern UI screens.
 
+
 <br>
 
-<div align="left">
-  <img src="Assets/Screenshots/mockup1.png" width="270" alt="Mockup 1" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="Assets/Screenshots/mockup2.png" width="250" alt="Mockup 2" />
-</div>
-
-<br><br>
-
-<div align="right">
-  <img src="Assets/Screenshots/mockup3.png" width="230" alt="Mockup 3" />
-</div>
-
-<br><br>
-
-<div align="right">
-  <img src="Assets/Screenshots/mockup4.png" width="220" alt="Mockup 4" />
-</div>
+<table>
+  <tr>
+    <td align="left" width="33%">
+      <img src="Assets/Screenshots/mockup1.png" width="230" alt="Mockup 1" />
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center">
+      <img src="Assets/Screenshots/mockup2.png" width="220" alt="Mockup 2" />
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td align="right">
+      <img src="Assets/Screenshots/mockup3.png" width="210" alt="Mockup 3" />
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td align="right">
+      <img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <p align="center">
