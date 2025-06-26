@@ -23,6 +23,18 @@ A glimpse into the E-Library app's modern UI/UX experience across various screen
 
 <div align="center">
 
+<img src="Assets/Screenshots/mockup1.png" width="200" alt="Mockup 1" />
+<img src="Assets/Screenshots/mockup12.png" width="200" alt="Mockup 2" />
+<img src="Assets/Screenshots/mockup3.png" width="200" alt="Mockup 2" />
+<img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" />
+</div>
+
+<!-- ## 📸 App Screens – Mockups
+
+A glimpse into the E-Library app's modern UI/UX experience across various screens:
+
+<div align="center">
+
 <img src="Assets/Screenshots/splash_mockup.png" width="200" alt="Splash Screen" />
 <img src="Assets/Screenshots/welcome_mockup.png" width="200" alt="Welcome Screen" />
 <img src="Assets/Screenshots/signup_mockup.png" width="200" alt="Signup Screen" />
@@ -32,7 +44,7 @@ A glimpse into the E-Library app's modern UI/UX experience across various screen
 <img src="Assets/Screenshots/pdf_mockup.png" width="200" alt="PDF Viewer" />
 <img src="Assets/Screenshots/profile_mockup.png" width="200" alt="User Profile Screen" />
 
-</div>
+</div> -->
 
 
 <!-- ## 📸 Screenshots
