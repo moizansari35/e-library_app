@@ -24,8 +24,8 @@ A glimpse into the E-Library app's modern UI/UX experience across various screen
 <div align="center">
 
 <img src="Assets/Screenshots/mockup1.png" width="200" alt="Mockup 1" />
-<img src="Assets/Screenshots/mockup12.png" width="200" alt="Mockup 2" />
-<img src="Assets/Screenshots/mockup3.png" width="200" alt="Mockup 2" />
+<img src="Assets/Screenshots/mockup2.png" width="200" alt="Mockup 2" />
+<img src="Assets/Screenshots/mockup3.png" width="200" alt="Mockup 3" />
 <img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" />
 </div>
 
