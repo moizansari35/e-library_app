@@ -26,28 +26,25 @@ Users can read, upload, and download books — all in one clean and elegant inte
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
       <img src="Assets/Screenshots/mockup1.png" width="100%" alt="Home Screen" />
-     <b>🚀 Getting Started</b><br/>
+     <br/><b>🚀 Getting Started</b><br/>
      <sub>Includes Splash, Welcome, and Home screens — the first steps into the E-Library experience.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
       <img src="Assets/Screenshots/mockup2.png" width="100%" alt="Book Details Screen" />
-      <br/><br/>
-      <b>📖 Book Details</b><br/>
-      <sub>View detailed information, cover, author, and description of selected books.</sub>
+      <br/><b>🔐 Authentication</b><br/>
+      <sub>Login and Signup screens with clean UI — enabling secure and easy  access for all users.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
       <img src="Assets/Screenshots/mockup3.png" width="100%" alt="PDF Reader" />
-      <br/><br/>
-      <b>📄 PDF Reader</b><br/>
-      <sub>Read books directly in the app with a fast and elegant PDF viewer.</sub>
+      <br/><b>📄 Reading & Profile</b><br/>
+      <sub>In-app PDF viewer with page navigation, user profile, and personal book listings.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
       <img src="Assets/Screenshots/mockup4.png" width="100%" alt="Profile Screen" />
-      <br/><br/>
-      <b>👤 Profile</b><br/>
-      <sub>Manage your uploads, view your reading list, and update your profile.</sub>
+      <br/><b>➕ Add & View Book</b><br/>
+      <sub>Form to upload books (empty & filled) and the final Book Details screen preview.</sub>
     </td>
   </tr>
 </table>
