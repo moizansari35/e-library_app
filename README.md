@@ -19,20 +19,42 @@ Users can read, upload, and download books — all in one clean and elegant inte
 
 ## 📸 App Screens – Mockups
 
-A glimpse into the E-Library app's modern UI/UX experience across various screens:
+> A glimpse into the **E-Library** app's modern UI/UX experience across key screens.
 
 <div align="center">
 
-  <img src="Assets/Screenshots/mockup1.png" width="250" alt="E-Library Mockup 1" />
-  <img src="Assets/Screenshots/mockup2.png" width="250" alt="E-Library Mockup 2" />
-  <img src="Assets/Screenshots/mockup3.png" width="250" alt="E-Library Mockup 3" />
-  <img src="Assets/Screenshots/mockup4.png" width="250" alt="E-Library Mockup 4" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="Assets/Screenshots/mockup1.png" width="220" alt="Home Screen" /><br/>
+      <sub>🏠 Home Screen</sub>
+    </td>
+    <td></td>
+    <td align="center" valign="top">
+      <img src="Assets/Screenshots/mockup2.png" width="220" alt="Book Detail" style="margin-top: 30px;" /><br/>
+      <sub>📖 Book Details</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="20"></td></tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="Assets/Screenshots/mockup3.png" width="220" alt="Reading View" style="margin-top: 60px;" /><br/>
+      <sub>📄 Read Book</sub>
+    </td>
+    <td></td>
+    <td align="center" valign="bottom">
+      <img src="Assets/Screenshots/mockup4.png" width="220" alt="Profile Screen" style="margin-bottom: 0px;" /><br/>
+      <sub>👤 Profile Screen</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <p align="center">
-  <i>Experience the modern UI of the E-Library app with intuitive navigation and beautiful design.</i>
+  <i>✨ Explore a seamless, engaging, and beautiful user journey through the E-Library mobile app interface.</i>
 </p>
+
 
 
 <!-- ## 📸 App Screens – Mockups
