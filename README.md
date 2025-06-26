@@ -18,38 +18,30 @@ Users can read, upload, and download books — all in one clean and elegant inte
 ---
 ## 📱 App Screens – E-Library UI Mockups
 
-> A smooth staircase-like preview of the **E-Library app**’s intuitive and modern UI screens.
+> A visual tour of the **E-Library** app's sleek and modern design. Each screen is crafted for a seamless user experience.
 
 
 <br>
 
-<table>
+<table align="center">
   <tr>
-    <td align="left" width="33%">
-      <img src="Assets/Screenshots/mockup1.png" width="230" alt="Mockup 1" />
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <img src="Assets/Screenshots/mockup1.png" width="200" alt="Mockup 1" /><br/>
+      <b>🏠 Home</b>
     </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="center">
-      <img src="Assets/Screenshots/mockup2.png" width="220" alt="Mockup 2" />
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td align="right">
-      <img src="Assets/Screenshots/mockup3.png" width="210" alt="Mockup 3" />
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <img src="Assets/Screenshots/mockup2.png" width="200" alt="Mockup 2" /><br/>
+      <b>📖 Book Details</b>
     </td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td align="right">
-      <img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" />
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <img src="Assets/Screenshots/mockup3.png" width="200" alt="Mockup 3" /><br/>
+      <b>📄 PDF Reader</b>
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" /><br/>
+      <b>👤 Profile</b>
     </td>
   </tr>
 </table>
