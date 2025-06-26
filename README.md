@@ -49,7 +49,6 @@ Users can read, upload, and download books — all in one clean and elegant inte
   </tr>
 </table>
 
-<br>
 <p align="center">
   <i>✨ Dive into a smooth, elegant, and intuitive reading experience with the E-Library app.</i>
 </p>
