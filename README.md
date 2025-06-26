@@ -25,26 +25,26 @@ Users can read, upload, and download books — all in one clean and elegant inte
 <table width="100%" align="center" cellspacing="10">
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup1.png" width="100%" alt="Home Screen" />
-     <b>🚀 Getting Started</b><br/>
-     <sub>Includes Splash, Welcome, and Home screens — the first steps into the E-Library experience.</sub>
+      <img src="Assets/Screenshots/mockup1.png" width="100%" alt="Getting Started Screens" /><br/>
+      <b>🚀 Getting Started</b><br/>
+      <sub>Includes Splash, Welcome, and Home screens — the first steps into the E-Library experience.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup2.png" width="100%" alt="Book Details Screen" />
-     <b>🔐 Authentication</b><br/>
-      <sub>Login and Signup screens with clean UI — enabling secure and easy  access for all users.</sub>
+      <img src="Assets/Screenshots/mockup2.png" width="100%" alt="Authentication Screens" /><br/>
+      <b>🔐 Authentication</b><br/>
+      <sub>Login and Signup screens with clean UI — enabling secure and easy access for all users.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup3.png" width="100%" alt="PDF Reader" />
-     <b>📄 Reading & Profile</b><br/>
+      <img src="Assets/Screenshots/mockup3.png" width="100%" alt="Reading & Profile Screens" /><br/>
+      <b>📄 Reading & Profile</b><br/>
       <sub>In-app PDF viewer with page navigation, user profile, and personal book listings.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup4.png" width="100%" alt="Profile Screen" />
+      <img src="Assets/Screenshots/mockup4.png" width="100%" alt="Add Book & Details" /><br/>
       <b>➕ Add & View Book</b><br/>
-      <sub>Form to upload books (empty & filled) and the final Book Details screen preview.</sub>
+      <sub>Form to upload books (empty & filled), and preview in the Book Details screen.</sub>
     </td>
   </tr>
 </table>
