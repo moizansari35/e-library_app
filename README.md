@@ -16,36 +16,32 @@ Users can read, upload, and download books — all in one clean and elegant inte
 - 🧱 Built using Flutter + GetX + Firebase
 
 ---
-## 📱 App Screens – E-Library UI Showcase
+## 📱 App Screens – E-Library UI Mockups
 
-> A visual tour of the **E-Library** app's sleek and modern design. Each screen is crafted for a seamless user experience.
+> A smooth staircase-like preview of the **E-Library app**’s intuitive and modern UI screens.
+
+<br>
+
+<div align="left">
+  <img src="Assets/Screenshots/mockup1.png" width="270" alt="Mockup 1" />
+</div>
 
 <br>
 
 <div align="center">
+  <img src="Assets/Screenshots/mockup2.png" width="250" alt="Mockup 2" />
+</div>
 
-<img src="Assets/Screenshots/mockup1.png" width="250" alt="Home Screen" />
 <br>
-<b>🏠 Home Screen – Dashboard with Categories & Trending Books</b>
+
+<div align="right">
+  <img src="Assets/Screenshots/mockup3.png" width="230" alt="Mockup 3" />
+</div>
 
 <br><br>
 
-<img src="Assets/Screenshots/mockup2.png" width="230" style="margin-top: 30px;" alt="Book Details" />
-<br>
-<b>📖 Book Details – Overview of selected book with actions</b>
-
-<br><br>
-
-<img src="Assets/Screenshots/mockup3.png" width="220" style="margin-top: 30px;" alt="Book Reader" />
-<br>
-<b>📄 Read Book – PDF viewer for seamless in-app reading</b>
-
-<br><br>
-
-<img src="Assets/Screenshots/mockup4.png" width="210" style="margin-top: 30px;" alt="Profile Screen" />
-<br>
-<b>👤 Profile – Manage account & uploaded books</b>
-
+<div align="right">
+  <img src="Assets/Screenshots/mockup4.png" width="210" alt="Mockup 4" />
 </div>
 
 <br>
