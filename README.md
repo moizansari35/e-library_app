@@ -22,26 +22,10 @@ Users can read, upload, and download books — all in one clean and elegant inte
 
 <br>
 
-<div align="left">
-  <img src="Assets/Screenshots/mockup1.png" width="270" alt="Mockup 1" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="Assets/Screenshots/mockup2.png" width="250" alt="Mockup 2" />
-</div>
-
-<br>
-
-<div align="right">
-  <img src="Assets/Screenshots/mockup3.png" width="230" alt="Mockup 3" />
-</div>
-
-<br><br>
-
-<div align="right">
-  <img src="Assets/Screenshots/mockup4.png" width="210" alt="Mockup 4" />
+<img src="Assets/Screenshots/mockup1.png" width="200" alt="Mockup 1" />
+<img src="Assets/Screenshots/mockup2.png" width="200" alt="Mockup 2" />
+<img src="Assets/Screenshots/mockup3.png" width="200" alt="Mockup 3" />
+<img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" />
 </div>
 
 <br>
