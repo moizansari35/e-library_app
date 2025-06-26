@@ -18,8 +18,7 @@ Users can read, upload, and download books — all in one clean and elegant inte
 ---
 ## 📱 App Screens – E-Library UI Mockups
 
-> A visual tour of the **E-Library** app's sleek and modern design. Each screen is crafted for a seamless user experience.
-
+> Seamless design meets smart functionality — take a look inside the **E-Library App**.
 
 <br>
 
