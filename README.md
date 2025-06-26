@@ -21,12 +21,10 @@ Users can read, upload, and download books — all in one clean and elegant inte
 > A smooth staircase-like preview of the **E-Library app**’s intuitive and modern UI screens.
 
 <br>
-
-<img src="Assets/Screenshots/mockup1.png" width="200" alt="Mockup 1" />
-<img src="Assets/Screenshots/mockup2.png" width="200" alt="Mockup 2" />
-<img src="Assets/Screenshots/mockup3.png" width="200" alt="Mockup 3" />
-<img src="Assets/Screenshots/mockup4.png" width="200" alt="Mockup 4" />
-</div>
+<img src="Assets/Screenshots/mockup1.png" width="250" alt="E-Library Mockup 1" />
+  <img src="Assets/Screenshots/mockup2.png" width="250" alt="E-Library Mockup 2" />
+  <img src="Assets/Screenshots/mockup3.png" width="250" alt="E-Library Mockup 3" />
+  <img src="Assets/Screenshots/mockup4.png" width="250" alt="E-Library Mockup 4" />
 
 <br>
 
