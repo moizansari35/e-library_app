@@ -24,21 +24,18 @@ class SignUpForm extends StatelessWidget {
           child: Obx(() {
             return CircleAvatar(
               radius: 70,
-              backgroundImage:
-                  authController.selectedProfileImage.value != null
-                      ? FileImage(authController.selectedProfileImage.value!)
-                      : null, // Show the selected profile image or null if not selected
-              child:
-                  authController.selectedProfileImage.value == null
-                      ? Center(
-                        child:
-                            authController.isProfileImageUploading.value
-                                ? const CircularProgressIndicator(
-                                  color: MyColors.backgroundColor,
-                                )
-                                : const Icon(Icons.camera_alt),
-                      )
-                      : null, // Show the CircularProgressIndicator or Icon only if no image is selected
+              backgroundImage: authController.selectedProfileImage.value != null
+                  ? FileImage(authController.selectedProfileImage.value!)
+                  : null, // Show the selected profile image or null if not selected
+              child: authController.selectedProfileImage.value == null
+                  ? Center(
+                      child: authController.isProfileImageUploading.value
+                          ? const CircularProgressIndicator(
+                              color: MyColors.backgroundColor,
+                            )
+                          : const Icon(Icons.camera_alt),
+                    )
+                  : null, // Show the CircularProgressIndicator or Icon only if no image is selected
             );
           }),
         ),
@@ -70,46 +67,46 @@ class SignUpForm extends StatelessWidget {
                 onPressed: () {
                   isShowPassword.value = !isShowPassword.value;
                 },
-                icon:
-                    isShowPassword.value
-                        ? const Icon(Icons.visibility_off)
-                        : const Icon(Icons.visibility),
+                icon: isShowPassword.value
+                    ? const Icon(Icons.visibility_off)
+                    : const Icon(Icons.visibility),
               ),
             ),
           ),
         ),
         const SizedBox(height: 60),
         Obx(
-          () =>
-              authController.isLoading.value
-                  ? const Center(
-                    child: CircularProgressIndicator(
-                      color: MyColors.primaryColor,
-                    ),
-                  )
-                  : Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      ElevatedButton(
-                        onPressed: () {
-                          authController.signupWithEmailPassword(
-                            email.text,
-                            password.text,
-                            username.text,
-                            authController.pickedProfileImage,
-                          );
-                        },
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: MyColors.primaryColor,
-                        ),
-                        child: Text(
-                          "Signup",
-                          style: Theme.of(context).textTheme.bodyLarge!
-                              .copyWith(color: MyColors.backgroundColor),
-                        ),
-                      ),
-                    ],
+          () => authController.isLoading.value
+              ? const Center(
+                  child: CircularProgressIndicator(
+                    color: MyColors.primaryColor,
                   ),
+                )
+              : Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    ElevatedButton(
+                      onPressed: () {
+                        authController.signupWithEmailPassword(
+                          email.text,
+                          password.text,
+                          username.text,
+                          authController.pickedProfileImage,
+                        );
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: MyColors.primaryColor,
+                      ),
+                      child: Text(
+                        "Signup",
+                        style: Theme.of(context)
+                            .textTheme
+                            .bodyLarge!
+                            .copyWith(color: MyColors.backgroundColor),
+                      ),
+                    ),
+                  ],
+                ),
         ),
       ],
     );
